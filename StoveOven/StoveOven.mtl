@@ -1,0 +1,143 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 24.11.2023 17:48:23
+
+newmtl Material__26
+	Kd 0.5000 0.5000 0.5000
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	illum 2
+	map_Kd C:\Users\uopguest\Desktop\StoveOven\metalbl.jpg
+	map_Pr C:\Users\uopguest\Desktop\StoveOven\metalbl.jpg
+	map_Pm C:\Users\uopguest\Desktop\StoveOven\metalbl.jpg
+	map_Ke C:\Users\uopguest\Desktop\StoveOven\metalbl.jpg
+
+newmtl Material__31
+	Kd 0.5000 0.5000 0.5000
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd C:\Users\uopguest\Desktop\StoveOven\metal.jpg
+	map_Ks C:\Users\uopguest\Desktop\StoveOven\metal.jpg
+	map_Pr C:\Users\uopguest\Desktop\StoveOven\metal.jpg
+	map_Pm C:\Users\uopguest\Desktop\StoveOven\metal.jpg
+
+newmtl Material__30
+	Kd 0.5000 0.5000 0.5000
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	illum 2
+	map_Kd C:\Users\uopguest\Desktop\StoveOven\Frontale-05.jpg
+	map_Ks C:\Users\uopguest\Desktop\StoveOven\Frontale-05.jpg
+	map_Pr C:\Users\uopguest\Desktop\StoveOven\Frontale-05.jpg
+	map_Pm C:\Users\uopguest\Desktop\StoveOven\Frontale-05.jpg
+	map_Ke C:\Users\uopguest\Desktop\StoveOven\Frontale-05.jpg
+
+newmtl Material__28
+	Kd 0.5000 0.5000 0.5000
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd C:\Users\uopguest\Desktop\StoveOven\Alluminio.jpg
+	map_Ks C:\Users\uopguest\Desktop\StoveOven\Alluminio.jpg
+	map_Pr C:\Users\uopguest\Desktop\StoveOven\Alluminio.jpg
+	map_Pm C:\Users\uopguest\Desktop\StoveOven\Alluminio.jpg
+
+newmtl Material__27
+	Kd 0.5000 0.5000 0.5000
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	illum 2
+	map_Kd C:\Users\uopguest\Desktop\StoveOven\BRUSHED.jpg
+	map_Ks C:\Users\uopguest\Desktop\StoveOven\BRUSHED.jpg
+	map_Pr C:\Users\uopguest\Desktop\StoveOven\BRUSHED.jpg
+	map_Pm C:\Users\uopguest\Desktop\StoveOven\BRUSHED.jpg
+	map_Ke C:\Users\uopguest\Desktop\StoveOven\BRUSHED.jpg
+
+newmtl standart_metal
+	Kd 0.5098 0.4471 0.8118
+	Ks 0.7922 0.7922 0.7922
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.5700
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd BRUSHED.JPG
+
+newmtl Material__25
+	Kd 0.5000 0.5000 0.5000
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	illum 2
+	map_Kd C:\Users\uopguest\Desktop\StoveOven\Per display forno.jpg
+	map_Ks C:\Users\uopguest\Desktop\StoveOven\Per display forno.jpg
+	map_Pr C:\Users\uopguest\Desktop\StoveOven\Per display forno.jpg
+	map_Pm C:\Users\uopguest\Desktop\StoveOven\Per display forno.jpg
+	map_Ke C:\Users\uopguest\Desktop\StoveOven\Per display forno.jpg
+
+newmtl Material__32
+	Kd 0.5000 0.5000 0.5000
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	illum 2
+	map_Kd C:\Users\uopguest\Desktop\StoveOven\Glass.jpg
+	map_Ks C:\Users\uopguest\Desktop\StoveOven\Glass.jpg
+	map_d C:\Users\uopguest\Desktop\StoveOven\Glass.jpg
+	map_Pr C:\Users\uopguest\Desktop\StoveOven\Glass.jpg
+	map_Pm C:\Users\uopguest\Desktop\StoveOven\Glass.jpg
+	map_Ke C:\Users\uopguest\Desktop\StoveOven\Glass.jpg
